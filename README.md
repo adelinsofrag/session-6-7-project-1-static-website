@@ -10,6 +10,17 @@ Creează un website static care să îndeplinească următoarele cerințe:
 - [ ] Structura HTML să includă, printre altele, elementele: header, footer, main, section, h1, img
 - [ ] Asigură navigarea pe fiecare pagină
 
+- [ ] Continua proiectul adaugand continut orientat pe tematica aleasa de tine (de exemplu, eu am folosit Plants ca topic, deci imagini cu plante, Lorem ipsum ca si text s.a.m.d)
+
+Daca nu ai inspiratie:
+- [ ] Pentru culori / paleta de culori poti folosi: http://colormind.io/
+- [ ] Pentru imagini poti folosi: www.freepik.com
+- [ ] Pentru continut: https://loremipsum.io/
+
+#### Nice to have
+
+- [ ] Folosind display aseaza imaginea si textul pe acelasi rand (de exemplu: text | image) si mai departe joaca-te cu layout-ul cat sa faci din site o pagina de prezentare cat mai frumoasa
+
 ### Prezentare
 
 La final, vei prezenta proiectul tău printr-o demonstrație (de aproximativ 15-20 de minute per persoană) și vei include, printre altele:
